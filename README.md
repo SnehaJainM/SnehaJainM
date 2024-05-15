@@ -1,6 +1,6 @@
 - 👋 Hello there, Im Sneha
 - 👀 I love to code!
-- 🌱 I’m currently learning web development basics.
+- 🌱 I’m currently learning Backend development using Python/Django/FastAPI/FLASK.
 - 📫- send me a mail at snehadalal06@gmail.com
 - Find me on Instagram:@sneha_jain83 ✨
 
